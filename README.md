@@ -2,7 +2,7 @@
 voice order kiosk, openAI api + google stt
 
 
-![alt text](https://github.com/scienceDuck-max/voice_command_kiosk/plan/image/3.PNG?raw=true)
+![alt text](https://github.com/scienceDuck-max/voice_command_kiosk/z.image/3.png?raw=true)
 
 ## Overview  
 This project is a voice-activated kiosk system for ordering coffee, developed using Processing and Python.  
